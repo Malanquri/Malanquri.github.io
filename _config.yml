@@ -16,7 +16,7 @@
 title: mohamed alanquri Blog
 email: anquri@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is for sharing datascience and other realted projects.
+  MQ's Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://Manquri.github.io/
 twitter_username: ""
