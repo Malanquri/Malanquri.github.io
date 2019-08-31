@@ -12,20 +12,21 @@ author: "MQ"
 ![Cover](/assets/cover2.JPG)
 {: refdef}
 
-
 ### Introduction
-Crime is a normal part of societies. Many recourses are assigned to monitor, address, and prevent crimes. Crime could have huge cost on individuals. Thier costs could affect individuals phiscally and mentily. I believe analazing crime data could give insghts about the crime trinds. 
+Crime is a normal part of societies. Many recourses are assigned to monitor, address, and prevent crimes. Crime could have huge cost on individuals. Their costs could affect individuals physically and mentally. I believe analyzing crime data could give insights about the crime trends. 
+
 ### Why Boston 
-Bostin is one of the oldest cities on the united stat. it is ranked as the 21st on population size. Boston Police Department have released their crime report data set to aid researchers in anlazing crimes. 
+Bostin is one of the oldest cities on the united stat. it is ranked as the 21st on population size. Boston Police Department have released their crime report data set to aid researchers in analyzing crimes. 
+
 ### Blog Question
-In this Blog we will discuse the following three qusetions:
+In this Blog we will discuss the following three questions:
 Q1 What is the top year in number of crimes in Boston?
 Q2 What are the top five districts in crime in Boston? 
 Q3 What are the top five crimes per year in Boston? 
 
 ### Results 
 #### First Question
-In order to answer the first question we need to look at the plot below.
+In order to answer the first question, we need to look at the plot below.
 {:refdef: style="text-align: center;"}
 ![q1](/assets/1.png)
 {: refdef}
@@ -36,7 +37,7 @@ The second question can be answered by the plot below
 {:refdef: style="text-align: center;"}
 ![q2](/assets/2.png)
 {: refdef}
-From the plot it is clear that B2, C11, D4, A1, B3 are the top five districts in number of crime in Boston. It is intereseting that there is a drop in number of crimes when comparing the top five districts to the others.
+From the plot it is clear that B2, C11, D4, A1, B3 are the top five districts in number of crimes in Boston. It is interesting that there is a drop-in number of crimes when comparing the top five districts to the others.
 
 #### Third Question
 To answer the third question, a separate plot has been created for each year.
@@ -44,11 +45,10 @@ To answer the third question, a separate plot has been created for each year.
 ![q3](/assets/all.png)
 {: refdef}
 
-What is really interesting is that Motor Vehicle Accident Assisstance is the top crime in every year. This is an alerting result which indicates the need of awareness campigans to increase the awareness and reduce the number of motor vehicle crimes.
+What is really interesting is that Motor Vehicle Accident Assistance is the top crime in every year. This is an alerting result which indicates the need of awareness campaigns to increase the awareness and reduce the number of motor vehicle crimes.
 
 
 ### Conclusion 
 
-In this blog we have investigated three questions related to the crimes in Boston. We have found out that 2017 was the highest year in number of crimes. n addition, B2 and C11 were the top 2 districts in number of crime. Finally, the top crime every year was the Motor Vehicle Accident Assisstance. We have noticed several interesting trends that could be investigated in future works.
-
+In this blog we have investigated three questions related to the crimes in Boston. We have found out that 2017 was the highest year in number of crimes. n addition, B2 and C11 were the top 2 districts in number of crimes. Finally, the top crime every year was the Motor Vehicle Accident Assistance. We have noticed several interesting trends that could be investigated in future works.
 
