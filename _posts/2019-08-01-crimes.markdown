@@ -6,6 +6,13 @@ categories: DS
 author: "MQ"
 ---
 
+
+
+{:refdef: style="text-align: center;"}
+![Cover](/assets/cover.jpg)
+{: refdef}
+
+
 ### Introduction
 Crime is a normal part of societies. Many recourses are assigned to monitor, address, and prevent crimes. Crime could have huge cost on individuals. Thier costs could affect individuals phiscally and mentily. I believe analazing crime data could give insghts about the crime trinds. 
 ### Why Boston 
@@ -37,16 +44,11 @@ To answer the third question, a separate plot has been created for each year.
 ![q3](/assets/all.png)
 {: refdef}
 
- 
+What is really interesting is that Motor Vehicle Accident Assisstance is the top crime in every year. This is an alerting result which indicates the need of awareness campigans to increase the awareness and reduce the number of motor vehicle crimes.
 
 
 ### Conclusion 
 
-
-
-{:refdef: style="text-align: center;"}
-![Cover](/assets/1.jpg)
-{: refdef}
-
+In this blog we have investigated three questions related to the crimes in Boston. We have found out that 2017 was the highest year in number of crimes. n addition, B2 and C11 were the top 2 districts in number of crime. Finally, the top crime every year was the Motor Vehicle Accident Assisstance. We have noticed several interesting trends that could be investigated in future works.
 
 
