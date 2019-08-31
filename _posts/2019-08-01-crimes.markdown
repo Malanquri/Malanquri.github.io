@@ -10,12 +10,45 @@ author: "MQ"
 Crime is a normal part of societies. Many recourses are assigned to monitor, address, and prevent crimes. Crime could have huge cost on individuals. Thier costs could affect individuals phiscally and mentily. I believe analazing crime data could give insghts about the crime trinds. 
 ### Why Boston 
 Bostin is one of the oldest cities on the united stat. it is ranked as the 21st on population size. Boston Police Department have released their crime report data set to aid researchers in anlazing crimes. 
-
-Q1 top crime per year 
-Q1 top five district in crime 
-Q3 top year in number of crimes
+### Blog Question
+In this Bolg we will discuse the following three qusetions:
+Q1 What is the top year in number of crimes in Boston?
+Q2 What are the top five districts in crime in Boston? 
+Q3 What are the top five crimes per year in Boston? 
 
 ### Results 
+#### First Question
+In order to answer the first question we need to look at the plot below.
+{:refdef: style="text-align: center;"}
+![q1](/assets/1.png)
+{: refdef}
+It is clear that 2017 has the highest number of crimes. Howervefr 2016 is not too far behind.
+
+#### Second Question
+The second question can be answered by the plot below
+{:refdef: style="text-align: center;"}
+![q2](/assets/2.png)
+{: refdef}
+From the plot it is clear that B2, C11, D4, A1, B3 are the top five districts in number of crime in Boston. 
+
+#### Third Question
+To answer the third question, a separate plot has been created for each year.
+{:refdef: style="text-align: center;"}
+![q3_2015](/assets/2015.png)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![q3_2016](/assets/2016.png)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![q3_2017](/assets/2017.png)
+{: refdef}
+{:refdef: style="text-align: center;"}
+![q3_2018](/assets/2018.png)
+{: refdef}
+
+
+
+
 
 ### Conclusion 
 
