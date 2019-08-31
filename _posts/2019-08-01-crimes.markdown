@@ -9,7 +9,7 @@ author: "MQ"
 
 
 {:refdef: style="text-align: center;"}
-![Cover](/assets/cover.jpg)
+![Cover](/assets/cover2.jpg)
 {: refdef}
 
 
