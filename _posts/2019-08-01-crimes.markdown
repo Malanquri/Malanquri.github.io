@@ -34,18 +34,8 @@ From the plot it is clear that B2, C11, D4, A1, B3 are the top five districts in
 #### Third Question
 To answer the third question, a separate plot has been created for each year.
 {:refdef: style="text-align: center;"}
-![q3_2015](/assets/2015.png)
+![q3](/assets/all.png)
 {: refdef}
-{:refdef: style="text-align: center;"}
-![q3_2016](/assets/2016.png)
-{: refdef}
-{:refdef: style="text-align: center;"}
-![q3_2017](/assets/2017.png)
-{: refdef}
-{:refdef: style="text-align: center;"}
-![q3_2018](/assets/2018.png)
-{: refdef}
-
 
 
 
