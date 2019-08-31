@@ -37,7 +37,7 @@ To answer the third question, a separate plot has been created for each year.
 ![q3](/assets/all.png)
 {: refdef}
 
-
+ 
 
 
 ### Conclusion 
