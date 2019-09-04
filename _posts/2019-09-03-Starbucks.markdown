@@ -14,8 +14,7 @@ author: "MQ"
 
 ### Notebook link
 
-**Note:** The notebook is availble on my github (here)[https://github.com/malanquri/starbucks]
-
+**Note:** The notebook is availble on my github [here](https://github.com/Malanquri/starbucks)
 ### Project Overview
 
 In this project we utilize simulated data from Starbucks App to get insights on custome's behaivor with offers.
@@ -172,7 +171,7 @@ Decision trees learn by sorting the features based on the information gained(i.e
 #### Fine-Tuning the Random Forest Classifier
 By using grid search on two parameters, we have fine-tuned the random forest classifier. Below is the accuracy of the optimized model versus the unoptimized model versus naive predictor
 {:refdef: style="text-align: center;"}
-![Accuracy Comparison](/assets/s2.png)
+![Accuracy Comparison](/assets/s2.PNG)
 {: refdef}
 
 
