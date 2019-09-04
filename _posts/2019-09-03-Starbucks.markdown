@@ -9,7 +9,7 @@ author: "MQ"
 
 
 {:refdef: style="text-align: center;"}
-![Cover](/assets/starbucks/cover.jpg)
+![Cover](/assets/s0.jpg)
 {: refdef}
 
 ### Notebook link
