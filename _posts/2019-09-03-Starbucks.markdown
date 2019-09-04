@@ -9,12 +9,12 @@ author: "MQ"
 
 
 {:refdef: style="text-align: center;"}
-![Cover](/assets/s0.jpg)
+![Cover](/assets/starbucks/cover.jpg)
 {: refdef}
 
 ### Notebook link
 
-**Note:** The notebook is availble on my github (here)[https://github.com/Malanquri/starbucks]
+**Note:** The notebook is availble on my github (here)[https://github.com/malanquri/starbucks]
 
 ### Project Overview
 
